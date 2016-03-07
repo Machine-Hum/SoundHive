@@ -27,4 +27,6 @@ PowerBreak
 --------
 Breaks out standard 2.1mm barrel connectors - for powering the whole stack.
 
+![alt tag](https://raw.githubusercontent.com/Machine-Hum/SoundHive/master/Media%20(Pictures%20%26%20Videos)/IMG_5097.JPG)
+
 -Walker
